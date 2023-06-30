@@ -10,5 +10,11 @@
   "block.everythingmod.black_opal_netherack_ore": "Black Opal Netherack-erts",
   "block.everythingmod.black_opal_endstone_ore": "Black Opal Endstone-erts",
 
+  "block.everythingmod.lotion_juice_block": "Lotion-sapblok",
+  "block.everythingmod.lotion_juice_ore": "Lotion Sap Erts",
+  "block.everythingmod.deepslate_lotion_juice_ore": "Deepslate Lotion Sap Erts",
+  "block.everythingmod.lotion_juice_netherack_ore": "Lotion Sap Netherack Erts",
+  "block.everythingmod.lotion_juice_endstone_ore": "Lotion Sap Eindsteen Erts",
+
   "creativemodtab.everything_tab": "De Alles-Mod"
 }

@@ -10,5 +10,11 @@
   "block.everythingmod.black_opal_netherack_ore": "ブラックオパールネザラック鉱石",
   "block.everythingmod.black_opal_endstone_ore": "ブラックオパールエンドストーン鉱石",
 
+  "block.everythingmod.lotion_juice_block": "ローションジュースブロック",
+  "block.everythingmod.lotion_juice_ore": "ローションジュース鉱石",
+  "block.everythingmod.deepslate_lotion_juice_ore": "ディープスレート ローションジュース鉱石",
+  "block.everythingmod.lotion_juice_netherack_ore": "ローションジュース ネザラック鉱石",
+  "block.everythingmod.lotion_juice_endstone_ore": "ローションジュースエンドストーン鉱石",
+
   "creativemodtab.everything_tab": "エブリシング モッド"
 }

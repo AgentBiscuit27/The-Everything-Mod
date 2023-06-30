@@ -10,5 +10,11 @@
   "block.everythingmod.black_opal_netherack_ore": "#Черный опал Netherack Ore",
   "block.everythingmod.black_opal_endstone_ore": "Черный опал Endstone Ore",
 
+  "block.everythingmod.lotion_juice_block": "Блок сока лосьона",
+  "block.everythingmod.lotion_juice_ore": "Лосьон Сок Руда",
+  "block.everythingmod.deepslate_lotion_juice_ore": "Deepslate Lotion Juice Ore",
+  "block.everythingmod.lotion_juice_netherack_ore": "Лосьон-сок Netherack Ore",
+  "block.everythingmod.lotion_juice_endstone_ore": "Лосьон Сок Endstone Ore",
+
   "creativemodtab.everything_tab": "Мод «Все»"
 }

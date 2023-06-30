@@ -10,5 +10,11 @@
   "block.everythingmod.black_opal_netherack_ore": "Black Opal Netherack Ore",
   "block.everythingmod.black_opal_endstone_ore": "Black Opal Endstone Ore",
 
+  "block.everythingmod.lotion_juice_block": "Lotion Juice Block",
+  "block.everythingmod.lotion_juice_ore": "Lotion Juice Ore",
+  "block.everythingmod.deepslate_lotion_juice_ore": "Deepslate Lotion Juice Ore",
+  "block.everythingmod.lotion_juice_netherack_ore": "Lotion Juice Netherack Ore",
+  "block.everythingmod.lotion_juice_endstone_ore": "Lotion Juice Netherack Ore",
+
   "creativemodtab.everything_tab": "The Everything Mod"
 }

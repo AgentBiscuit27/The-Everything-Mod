@@ -10,5 +10,11 @@
   "block.everythingmod.black_opal_netherack_ore": "Schwarzopal-Netherack-Erz",
   "block.everythingmod.black_opal_endstone_ore": "Schwarzopal-Endsteinerz",
 
+  "block.everythingmod.lotion_juice_block": "Lotion-Saftblock",
+  "block.everythingmod.lotion_juice_ore": "Lotion-Saft-Erz",
+  "block.everythingmod.deepslate_lotion_juice_ore": "Deepslate Lotion Safterz",
+  "block.everythingmod.lotion_juice_netherack_ore": "Lotionssaft Netherack-Erz",
+  "block.everythingmod.lotion_juice_endstone_ore": "Lotionssaft Endstone Erz",
+
   "creativemodtab.everythingtab": "Der Everything Mod"
 }

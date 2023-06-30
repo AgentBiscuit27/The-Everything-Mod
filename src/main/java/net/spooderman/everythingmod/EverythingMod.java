@@ -52,6 +52,11 @@ public class EverythingMod {
             event.accept(ModBlocks.DEEPSLATE_BLACK_OPAL_ORE);
             event.accept(ModBlocks.BLACK_OPAL_NETHERACK_ORE);
             event.accept(ModBlocks.BLACK_OPAL_ENDSTONE_ORE);
+            event.accept(ModBlocks.LOTION_JUICE_BLOCK);
+            event.accept(ModBlocks.LOTION_JUICE_ORE);
+            event.accept(ModBlocks.DEEPSLATE_LOTION_JUICE_ORE);
+            event.accept(ModBlocks.LOTION_JUICE_NETHERACK_ORE);
+            event.accept(ModBlocks.LOTION_JUICE_ENDSTONE_ORE);
         }
     }
 

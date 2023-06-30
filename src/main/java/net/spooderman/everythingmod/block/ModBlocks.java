@@ -40,6 +40,26 @@ public class ModBlocks {
             () -> new DropExperienceBlock(BlockBehaviour.Properties.of(Material.STONE)
                     .strength(8f).requiresCorrectToolForDrops(), UniformInt.of(2,6)));
 
+    public static final RegistryObject<Block> LOTION_JUICE_BLOCK = registerBlock("lotion_juice_block",
+            () -> new Block(BlockBehaviour.Properties.of(Material.METAL)
+                    .strength(6f).requiresCorrectToolForDrops()));
+
+    public static final RegistryObject<Block> LOTION_JUICE_ORE = registerBlock("lotion_juice_ore",
+            () -> new DropExperienceBlock(BlockBehaviour.Properties.of(Material.STONE)
+                    .strength(7f).requiresCorrectToolForDrops(), UniformInt.of(2, 6)));
+
+    public static final RegistryObject<Block> DEEPSLATE_LOTION_JUICE_ORE = registerBlock("deepslate_lotion_juice_ore",
+            () -> new DropExperienceBlock(BlockBehaviour.Properties.of(Material.STONE)
+                    .strength(8f).requiresCorrectToolForDrops(), UniformInt.of(2, 6)));
+
+    public static final RegistryObject<Block> LOTION_JUICE_NETHERACK_ORE = registerBlock("lotion_juice_netherack_ore",
+            () -> new DropExperienceBlock(BlockBehaviour.Properties.of(Material.STONE)
+                    .strength(6f).requiresCorrectToolForDrops(), UniformInt.of(2, 6)));
+
+    public static final RegistryObject<Block> LOTION_JUICE_ENDSTONE_ORE = registerBlock("lotion_juice_endstone_ore",
+            () -> new DropExperienceBlock(BlockBehaviour.Properties.of(Material.STONE)
+                    .strength(9f).requiresCorrectToolForDrops(), UniformInt.of(2, 6)));
+
     private static <T extends Block> RegistryObject<T> registerBlock(String name, Supplier<T> block) {
         RegistryObject<T> toReturn = BLOCKS.register(name, block);
         registerBlockItem(name, toReturn);

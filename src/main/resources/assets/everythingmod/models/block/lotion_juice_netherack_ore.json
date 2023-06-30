@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "everythingmod:block/lotion_juice_netherack_ore"
+  }
+}

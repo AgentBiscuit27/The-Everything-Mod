@@ -43,6 +43,8 @@ public class EverythingMod {
         if(event.getTab() == ModCreativeModTabs.EVERYTHING_TAB) {
             event.accept(ModItems.BLACK_OPAL);
             event.accept(ModItems.RAW_BLACK_OPAL);
+            event.accept(ModItems.LOTION_POTION);
+            event.accept(ModItems.LOTION_JUICE);
         }
     }
 

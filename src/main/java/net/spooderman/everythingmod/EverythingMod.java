@@ -11,6 +11,7 @@ import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.event.lifecycle.FMLClientSetupEvent;
 import net.minecraftforge.fml.event.lifecycle.FMLCommonSetupEvent;
 import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
+import net.spooderman.everythingmod.block.ModBlocks;
 import net.spooderman.everythingmod.item.ModCreativeModTabs;
 import net.spooderman.everythingmod.item.ModItems;
 import org.slf4j.Logger;
@@ -29,6 +30,7 @@ public class EverythingMod {
         modEventBus.addListener(this::commonSetup);
 
         ModItems.register(modEventBus);
+        ModBlocks.register(modEventBus);
 
         MinecraftForge.EVENT_BUS.register(this);
 
@@ -45,6 +47,7 @@ public class EverythingMod {
             event.accept(ModItems.RAW_BLACK_OPAL);
             event.accept(ModItems.LOTION_POTION);
             event.accept(ModItems.LOTION_JUICE);
+            event.accept(ModBlocks.BLACK_OPAL_BLOCK);
         }
     }
 

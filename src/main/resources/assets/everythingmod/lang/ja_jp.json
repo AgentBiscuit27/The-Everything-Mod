@@ -1,4 +1,6 @@
 {
   "item.everythingmod.black_opal": "ブラックオパール",
-  "item.everythingmod.raw_black_opal": "ブラックオパール原石"
+  "item.everythingmod.raw_black_opal": "ブラックオパール原石",
+
+  "creativemodtab.everything_tab": "エブリシング モッド"
 }

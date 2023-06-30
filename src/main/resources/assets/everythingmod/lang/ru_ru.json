@@ -1,4 +1,6 @@
 {
   "item.everythingmod.black_opal": "Черный опал",
-  "item.everythingmod.raw_black_opal": "необработанный черный опал"
+  "item.everythingmod.raw_black_opal": "необработанный черный опал",
+
+  "creativemodtab.everything_tab": "Мод «Все»"
 }

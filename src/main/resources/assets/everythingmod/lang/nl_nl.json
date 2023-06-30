@@ -4,7 +4,11 @@
   "item.everythingmod.lotion_potion": "Lotion-drankje",
   "item.everythingmod.lotion_juice": "Lotion Sap",
 
-  "block.everythingmod.black_opal_block": "Zwart opaal blok",
+  "block.everythingmod.black_opal_block": "Blok van zwarte opaal",
+  "block.everythingmod.black_opal_ore": "Zwart Opaal Erts",
+  "block.everythingmod.deepslate_black_opal_ore": "Deepslate Black Opal-erts",
+  "block.everythingmod.black_opal_netherack_ore": "Black Opal Netherack-erts",
+  "block.everythingmod.black_opal_endstone_ore": "Black Opal Endstone-erts",
 
   "creativemodtab.everything_tab": "De Alles-Mod"
 }

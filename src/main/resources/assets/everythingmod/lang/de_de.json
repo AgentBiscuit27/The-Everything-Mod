@@ -4,7 +4,11 @@
   "item.everythingmod.lotion_potion": "Lotionstrank",
   "item.everythingmod.lotion_juice": "Lotionssaft",
 
-  "block.everythingmod.black_opal_block": "Schwarzer Opalblock",
+  "block.everythingmod.black_opal_block": "Block aus schwarzem Opal",
+  "block.everythingmod.black_opal_ore": "Schwarzes Opalerz",
+  "block.everythingmod.deepslate_black_opal_ore": "Deepslate Black Opal Erz",
+  "block.everythingmod.black_opal_netherack_ore": "Schwarzopal-Netherack-Erz",
+  "block.everythingmod.black_opal_endstone_ore": "Schwarzopal-Endsteinerz",
 
   "creativemodtab.everythingtab": "Der Everything Mod"
 }

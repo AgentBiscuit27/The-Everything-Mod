@@ -4,7 +4,11 @@
   "item.everythingmod.lotion_juice": "ローションジュース",
   "item.everythingmod.lotion_potion": "ローションポーション",
 
-  "block.everythingmod.black_opal_block": "ブラックオパールブロック",
+  "block.everythingmod.black_opal_block": "ブラックオパールのブロック",
+  "block.everythingmod.black_opal_ore": "ブラックオパール鉱石",
+  "block.everythingmod.deepslate_black_opal_ore": "ディープスレート ブラック オパール鉱石",
+  "block.everythingmod.black_opal_netherack_ore": "ブラックオパールネザラック鉱石",
+  "block.everythingmod.black_opal_endstone_ore": "ブラックオパールエンドストーン鉱石",
 
   "creativemodtab.everything_tab": "エブリシング モッド"
 }

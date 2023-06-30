@@ -48,6 +48,10 @@ public class EverythingMod {
             event.accept(ModItems.LOTION_POTION);
             event.accept(ModItems.LOTION_JUICE);
             event.accept(ModBlocks.BLACK_OPAL_BLOCK);
+            event.accept(ModBlocks.BLACK_OPAL_ORE);
+            event.accept(ModBlocks.DEEPSLATE_BLACK_OPAL_ORE);
+            event.accept(ModBlocks.BLACK_OPAL_NETHERACK_ORE);
+            event.accept(ModBlocks.BLACK_OPAL_ENDSTONE_ORE);
         }
     }
 

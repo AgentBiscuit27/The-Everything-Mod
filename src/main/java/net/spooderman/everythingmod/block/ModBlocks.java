@@ -24,7 +24,7 @@ public class ModBlocks {
             () -> new Block(BlockBehaviour.Properties.of(Material.METAL)
                     .strength(6f).requiresCorrectToolForDrops()));
 
-    public static final RegistryObject<Block> BLACK_OPAL_ORE = registerBlock("black_opal_ore",
+    public static final RegistryObject<Block> BLACK_OPAL_ORE = registerBlock("black_opal_ore.json",
             () -> new DropExperienceBlock(BlockBehaviour.Properties.of(Material.STONE)
                     .strength(5f).requiresCorrectToolForDrops(), UniformInt.of(2,6)));
 

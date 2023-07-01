@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "everythingmod:black_opal_ore",
+    "everythingmod:black_opal_block",
+    "everythingmod:deepslate_black_opal_ore",
+    "everythingmod:black_opal_netherack_ore",
+    "everythingmod:black_opal_endstone_ore"
+  ]
+}

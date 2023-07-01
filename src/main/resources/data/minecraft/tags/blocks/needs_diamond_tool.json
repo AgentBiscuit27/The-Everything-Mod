@@ -1,6 +1,7 @@
 {
   "replace": false,
   "values": [
-    "everythingmod:black_opal_nethereack_ore"
+    "everythingmod:black_opal_nethereack_ore",
+    "everythingmod:lotion_juice_netherack_ore"
   ]
 }

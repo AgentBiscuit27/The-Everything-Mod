@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "lotion_potion",
+  "pattern": [
+    "#",
+    "~"
+  ],
+  "key": {
+    "#": {
+      "item": "everythingmod:lotion_juice"
+    },
+    "~": {
+      "item": "minecraft:glass_bottle"
+    }
+  },
+  "result": {
+    "item": "everythingmod:lotion_potion"
+  }
+}

@@ -2,6 +2,8 @@
   "replace": false,
   "values": [
     "everythingmod:black_opal_ore",
-    "everythingmod:deepslate_black_opal_ore"
+    "everythingmod:deepslate_black_opal_ore",
+    "everythingmod:lotion_juice_ore",
+    "everythingmod:deepslate_lotion_juice_ore"
   ]
 }

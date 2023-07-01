@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.7,
+  "group": "black_opal",
+  "ingredient": {
+    "item": "everythingmod:raw_black_opal"
+  },
+  "result": "everythingmod:black_opal"
+}

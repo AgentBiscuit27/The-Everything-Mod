@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "everythingmod:lotion_juice_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "everythingmod:lotion_juice"
+  }
+}

@@ -1,5 +1,7 @@
 {
   "variants": {
-    "": { "model": "everythingmod:block/black_opal_ore" }
+    "": {
+      "model": "everythingmod:block/black_opal_ore"
+    }
   }
 }

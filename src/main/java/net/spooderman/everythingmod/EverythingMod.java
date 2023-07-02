@@ -27,18 +27,10 @@ public class EverythingMod {
     public EverythingMod() {
         IEventBus modEventBus = FMLJavaModLoadingContext.get().getModEventBus();
 
-        modEventBus.addListener(this::commonSetup);
-
         ModItems.register(modEventBus);
         ModBlocks.register(modEventBus);
 
-        MinecraftForge.EVENT_BUS.register(this);
-
         modEventBus.addListener(this::addCreative);
-    }
-
-    private void commonSetup(final FMLCommonSetupEvent event) {
-
     }
 
     private void addCreative(CreativeModeTabEvent.BuildContents event) {
@@ -57,14 +49,6 @@ public class EverythingMod {
             event.accept(ModBlocks.DEEPSLATE_LOTION_JUICE_ORE);
             event.accept(ModBlocks.LOTION_JUICE_NETHERACK_ORE);
             event.accept(ModBlocks.LOTION_JUICE_ENDSTONE_ORE);
-        }
-    }
-
-    // You can use EventBusSubscriber to automatically register all static methods in the class annotated with @SubscribeEvent
-    @Mod.EventBusSubscriber(modid = MOD_ID, bus = Mod.EventBusSubscriber.Bus.MOD, value = Dist.CLIENT)
-    public static class ClientModEvents {
-        @SubscribeEvent
-        public static void onClientSetup(FMLClientSetupEvent event) {
         }
     }
 }
